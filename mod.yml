@@ -1,0 +1,9 @@
+title: Jack getting Freaky
+originalAuthor: Flowleyd
+description: Get Freaky in the Club
+
+assets:
+- name: voice\us\battle\nm0_jack.win32.scd
+  method: copy
+  source:
+  - name: Freaky.scd
